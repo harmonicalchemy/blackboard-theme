@@ -30,11 +30,11 @@
 
 (custom-theme-set-faces
  `blackboard
- `(default ((t (:background "#0C1021" :foreground "#F8F8F8" ))))
+ `(default ((t (:background "#180028" :foreground "#F8F8F8" ))))
  `(bold ((t (:bold t))))
  `(bold-italic ((t (:bold t))))
  `(border-glyph ((t (nil))))
- `(buffers-tab ((t (:background "#0C1021" :foreground "#F8F8F8"))))
+ `(buffers-tab ((t (:background "#180028" :foreground "#F8F8F8"))))
  `(font-lock-builtin-face ((t (:foreground "#94bff3"))))
  `(font-lock-comment-face ((t (:italic t :foreground "#AEAEAE"))))
  `(font-lock-constant-face ((t (:foreground "#D8FA3C"))))
